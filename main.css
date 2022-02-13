@@ -216,7 +216,7 @@ ul > li{
     left: 0;
     bottom: 0;
     transform: translateY(-110%);
-    transform: translateX(-1%);
+    transform: translateX(-2%);
 
 }
 .fade-slider__item--style-presents .lined-text{
