@@ -215,7 +215,8 @@ ul > li{
 .fade-slider__item--style-presents .fade-slider__text{
     left: 0;
     bottom: 0;
-    transform: translateY(-120%);
+    transform: translateY(-110%);
+    transform: translateX(-1%);
 
 }
 .fade-slider__item--style-presents .lined-text{
